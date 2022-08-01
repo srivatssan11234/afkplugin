@@ -1,0 +1,4 @@
+name: Afkplugin
+version: '${project.version}'
+main: me.srivatssanayyasamy.afkplugin.Afkplugin
+api-version: 1.19
